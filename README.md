@@ -1,1 +1,1 @@
-# deopstraining2024
+# devopstraining2024
